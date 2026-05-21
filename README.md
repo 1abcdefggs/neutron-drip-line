@@ -1,13 +1,21 @@
-# neutron-drip-line
-Structure test　he Neutron Drip Line: The Limit of Nuclear Existence
+# Neutron Drip Line Project
+Exploring the limits of nuclear existence using the Semi-Empirical Mass Formula (SEMF).
 
-## Nuclear Binding Energy (SEMF)
+## 🔬 Nuclear Binding Energy (SEMF)
 
-### Calculator
+### 📟 Online Calculator
 Run the SEMF model directly in your browser:
-https://USERNAME.github.io/semf-calculator/
 
-### Jupyter Notebook (Python)
-SEMF implementation and examples:
-https://github.com/USERNAME/semf-calculator/blob/main/semf.ipynb
+https://1abcdefggs.github.io/neutron-drip-line/
+
+### 📘 Jupyter Notebook (Python)
+Full SEMF implementation, plots, and analysis:
+
+https://github.com/1abcdefggs/neutron-drip-line/blob/main/analysis.ipynb
+
+### 🗂 Archived Notebooks
+Older versions and experimental notebooks:
+
+https://github.com/1abcdefggs/neutron-drip-line/tree/main/archive
+
 
